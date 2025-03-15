@@ -4,6 +4,7 @@
 
 🔐 **Atenção**: O sistema requer uma **chave de acesso** para ser utilizado.
 
+---
 💰 Como Adquirir o Sistema
 
 Para obter uma chave de acesso, entre em contato diretamente comigo no Telegram:
