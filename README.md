@@ -1,12 +1,6 @@
 # 🚀 Sistema de Automação de Consultas de Dados
 
 ![Badge](https://img.shields.io/badge/linguagem-Python3-blue)
-![Badge](https://img.shields.io/badge/licença-MIT-orange)
-
-✨ **Sistema de Automação de Consultas de Dados!** ✨  
-Este é um sistema desenvolvido em **Python3** que automatiza o processo de consultas de dados utilizando a API de **3 bots do Telegram**. Ele compara as respostas dos bots e exibe a mais completa. Ideal para quem precisa de respostas rápidas, confiáveis e automatizadas.  
-
----
 
 🔐 **Atenção**: O sistema requer uma **chave de acesso** para ser utilizado.
 
