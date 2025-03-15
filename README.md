@@ -10,7 +10,6 @@
 Para obter uma chave de acesso, entre em contato diretamente comigo no Telegram:
 [@CipherShadow08](https://t.me/CipherShadow08)
 
-Será um prazer ajudar você a configurar e utilizar o sistema! 🚀
 ---
 
 ## 🌟 Funcionalidades
